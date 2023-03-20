@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Blazor Foundation 6](https://github.com/OpenCodeDev/OpenCodeDev.Blazor.Foundation)
 
-- 💬 Ask me about **spring boot, Angular, java, dotNet**
+- 💬 Ask me about **spring boot, Angular, java, Jhipster, C#, dotNet Core**
 
 - 📫 How to reach me **mysteremady@gmail.com**
 
